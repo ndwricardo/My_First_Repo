@@ -1,0 +1,60 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+   
+  }
+  .inline-block {
+    padding: 15px;
+    display: inline-block;
+    background-color: darkgrey;
+  }
+  .left {
+    float: left;
+    height: 250px;
+    background-color: lightblue;
+    width: 30%;
+    text-align: center;
+  }
+  .left-bottom {
+    float: left;
+    height: 500px;
+    background-color: lightgrey;
+    width: 30%;
+    text-align: center;
+  }
+  .right {
+    float: left;
+    background-color: lightgreen;
+    height: 500px;
+    width: 70%;
+    text-align: center;
+  }
+  .w3-round {
+    display: inline-block;
+    background-color:#C6C6C6;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+    margin: 35px;
+    margin-top: 25px;
+  }
+  .main-image {
+    display: inline-block;
+      float: left;
+    background-color:#C6C6C6;
+    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+    margin: 35px;
+    margin-top: 0px;
+  }
+  .card {
+    display: inline-block;
+    background-color:#C6C6C6;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+    margin: 35px;
+    margin-top: 25px;
+  }
+  
